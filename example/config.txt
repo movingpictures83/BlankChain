@@ -1,0 +1,2 @@
+Prefix plugins/BlankChain/example/
+Plugin BlankChain inputfile 1.pdb outputfile output.blank.chain.pdb
